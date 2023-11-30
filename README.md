@@ -5,6 +5,8 @@ Project Synopsis:
 Being a content creator and Youtube channel star has become popular since the early 2000s, where creators can earn exponential income from creating videos. The purpose of the project is to analyze the Youtube dataset with stats regarding popular Youtubers, their earnings, and country ranking. New or potential creators can use this data to determine what would be the best content their channel should have based on their country and what type of potential earnings they could make from this channel. 
 
 Instructions for Using Code:
+You can also use the word doc attached within the files for instructions on using our code. This file also contains images if you are having trouble importing the data into your tables. 
+
 Part A:
 Use the following code to create the three tables for this database. Copy and paste this code into SQL Developer and run the script. Please create the tables in the exact order as provided below since the Channel_Stats table references Foreign Keys from the Youtuberinfo and Countrystats. 
 
